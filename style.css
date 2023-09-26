@@ -55,7 +55,6 @@ a {
 	font-weight: 400;
 }
 
-/* layouts */
 .container {
 	max-width: 1000px;
 	width: 90%;
@@ -152,7 +151,6 @@ a {
 	line-height: 2;
 }
 
-/* Ref  */
 .ref_item {
 	margin-top: 2rem;
 }

@@ -1,1 +1,3 @@
-# resume
+# Mia Contreras 
+# Resume
+# Miacontreras@lewisu.edu
